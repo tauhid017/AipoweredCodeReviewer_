@@ -13,7 +13,7 @@ This project is built using Flask for the backend and HTML, CSS, and JavaScript 
 Setup Instructions
 Follow these steps to set up and run the project on your local system:
 1. Clone the Repository
-git clone https://github.com/tauhid017/AipoweredCodeReviewer
+git clone https://github.com/tauhid017/AipoweredCodeReviewer_
 
 2. Get a Google Gemini API Key
 Sign up at Google AI and generate an API key from ai.google.dev
