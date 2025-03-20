@@ -42,3 +42,8 @@ Google Gemini API – AI-powered code analysis
 Contributing
 Feel free to fork this repository and improve the project. Contributions are welcome!
 Thank you
+
+
+HERE IS A DEMO VIDEO OF HOW THE PROJECT WORKS:
+https://github.com/user-attachments/assets/3a509236-0a69-482c-960a-6ff4a027f20e
+
